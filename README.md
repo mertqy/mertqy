@@ -6,7 +6,7 @@ Junior
 
 * 🌍  I'm based in Turkey / Ankara
 * ✉️  You can contact me at [mert\_aktas07@outlook.com](mailto:mert_aktas07@outlook.com)
-* 🧠  I'm learning asp.net
+* 🧠  I'm learning React
 
 ### Skills
 
